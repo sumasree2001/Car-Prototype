@@ -1,0 +1,156 @@
+{ "pid": "host", "ph":"M", "name": "process_name", "args": {"name": "host"} },
+{ "pid": "host", "ph":"M", "name": "process_sort_index", "args": {"sort_index": 0} },
+{ "pid": "host", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "host", "tid": 1,"ts": 1694120752462556,"dur": 10800442, "ph":"X", "name": "UnityLinker.exe"},
+{ "pid": "host", "tid": 1,"ts": 1694120752463277,"dur": 4053003, "ph":"X", "name": "Step : Unity.Linker.Steps.SetupAndRegisterUnityEngineSteps"},
+{ "pid": "host", "tid": 1,"ts": 1694120756516340,"dur": 849156, "ph":"X", "name": "Step : Unity.Linker.Steps.Rooting.ResolveUnityEngine"},
+{ "pid": "host", "tid": 1,"ts": 1694120757366329,"dur": 2975604, "ph":"X", "name": "Step : UnityUnityResolveFromXmlStep: C:\\Users\\suma9\\OneDrive\\Documents\\GameDev\\Create with Code\\Prototype 1\\Temp\\StagingArea\\Data\\Managed\\TypesInScenes.xml"},
+{ "pid": "host", "tid": 1,"ts": 1694120760341950,"dur": 684554, "ph":"X", "name": "Step : Unity.Linker.Steps.InitializeEngineStrippingStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120761026518,"dur": 3235, "ph":"X", "name": "Step : Unity.Linker.Steps.Rooting.ResolveForEngineModuleStrippingEnabledStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120761029785,"dur": 133111, "ph":"X", "name": "Step : Unity.Linker.Steps.Resolution.ResolveAssemblyDirectoryStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120761162924,"dur": 4012, "ph":"X", "name": "Step : Unity.Linker.Steps.SetupAndRegisterUnityRootsSteps"},
+{ "pid": "host", "tid": 1,"ts": 1694120761166945,"dur": 5692, "ph":"X", "name": "Step : Mono.Linker.Steps.ResolveFromAssemblyStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120761172650,"dur": 1602, "ph":"X", "name": "Step : Unity.Linker.Steps.UnityLoadReferencesStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120761175472,"dur": 5849, "ph":"X", "name": "Step : Unity.Linker.Steps.Resolution.ResolveFromDescriptorsStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120761181330,"dur": 2426, "ph":"X", "name": "Step : UnityUnityResolveFromXmlStep: C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.29f1\\Editor\\Data\\il2cpp\\LinkerDescriptors\\Default\\System.xml"},
+{ "pid": "host", "tid": 1,"ts": 1694120761183839,"dur": 6061, "ph":"X", "name": "Step : UnityUnityResolveFromXmlStep: C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.29f1\\Editor\\Data\\il2cpp\\LinkerDescriptors\\Default\\mscorlib.xml"},
+{ "pid": "host", "tid": 1,"ts": 1694120761191362,"dur": 11590, "ph":"X", "name": "Step : Unity.Linker.Steps.Resolution.UnityBlacklistStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120761202957,"dur": 4709, "ph":"X", "name": "Step : UnityUnityResolveFromXmlStep: mscorlib Resource: mscorlib.xml"},
+{ "pid": "host", "tid": 1,"ts": 1694120761207683,"dur": 308718, "ph":"X", "name": "Step : Mono.Linker.Steps.DynamicDependencyLookupStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120761519439,"dur": 2814, "ph":"X", "name": "Step : Unity.Linker.Steps.Rooting.ResolveFromMonoBehaviours"},
+{ "pid": "host", "tid": 1,"ts": 1694120761522260,"dur": 182979, "ph":"X", "name": "Step : Unity.Linker.Steps.Rooting.ResolveFromPreserveAttribute"},
+{ "pid": "host", "tid": 1,"ts": 1694120761705262,"dur": 9124, "ph":"X", "name": "Step : Unity.Linker.Steps.EngineStrippingAnnotationStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120761714407,"dur": 217186, "ph":"X", "name": "Step : Unity.Linker.Steps.UnityTypeMapStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120761931902,"dur": 164099, "ph":"X", "name": "Step : Unity.Linker.Steps.Analytics.BeforeMarkAnalyticsStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762096018,"dur": 16721, "ph":"X", "name": "Step : Mono.Linker.Steps.RemoveSecurityStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762112758,"dur": 1981, "ph":"X", "name": "Step : Unity.Linker.Steps.RemoveSecurityFromCopyAssemblies"},
+{ "pid": "host", "tid": 1,"ts": 1694120762114751,"dur": 13424, "ph":"X", "name": "Step : Mono.Linker.Steps.RemoveFeaturesStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762128200,"dur": 12554, "ph":"X", "name": "Step : Mono.Linker.Steps.RemoveUnreachableBlocksStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762140774,"dur": 710737, "ph":"X", "name": "Step : Unity.Linker.Steps.UnityMarkStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762852088,"dur": 5053, "ph":"X", "name": "Step : Mono.Linker.Steps.ProcessWarningsStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762857149,"dur": 35645, "ph":"X", "name": "Step : Unity.Linker.Steps.UnitySweepStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762892807,"dur": 1819, "ph":"X", "name": "Step : Unity.Linker.Steps.UnityCodeRewriterStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762894636,"dur": 2420, "ph":"X", "name": "Step : Mono.Linker.Steps.CleanStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762897065,"dur": 2398, "ph":"X", "name": "Step : Unity.Linker.Steps.StubifyStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762899470,"dur": 1966, "ph":"X", "name": "Step : Unity.Linker.Steps.AddUnresolvedStubsStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762901442,"dur": 2556, "ph":"X", "name": "Step : Unity.Linker.Steps.Analytics.BeforeOutputAnalyticsStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120762904841,"dur": 262858, "ph":"X", "name": "Step : Unity.Linker.Steps.UnityOutputStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120763167716,"dur": 37986, "ph":"X", "name": "Step : Unity.Linker.Steps.LinkerToEditorDataGenerationStep"},
+{ "pid": "host", "tid": 1,"ts": 1694120763217067,"dur": 45930, "ph":"X", "name": "Analytics"},
+{ "pid": "host", "tid": 0, "ph":"M", "name": "thread_name", "args": {"name": "GC"} },
+{ "pid": "host", "tid": 0,"ts": 1694120757319000,"dur": 5000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120760342000,"dur": 1000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120760864000,"dur": 3000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761022000,"dur": 2000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761234000,"dur": 7000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761247000,"dur": 7000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761307000,"dur": 11000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761324000,"dur": 8000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761362000,"dur": 16000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761387000,"dur": 8000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761466000,"dur": 8000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761481000,"dur": 7000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761537000,"dur": 9000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761560000,"dur": 14000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761657000,"dur": 21000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761684000,"dur": 22000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761741000,"dur": 22000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761832000,"dur": 7000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761851000,"dur": 11000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120761948000,"dur": 14000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762001000,"dur": 5000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762012000,"dur": 3000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762082000,"dur": 0, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762087000,"dur": 0, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762092000,"dur": 0, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762121000,"dur": 2000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762367000,"dur": 2000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762444000,"dur": 6000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762546000,"dur": 8000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762623000,"dur": 9000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762671000,"dur": 8000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762808000,"dur": 8000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120762877000,"dur": 7000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": 0,"ts": 1694120763104000,"dur": 8000, "ph":"X", "name": "GC - Gen 0", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1, "ph":"M", "name": "thread_name", "args": {"name": "GC"} },
+{ "pid": "host", "tid": -1,"ts": 1694120759285000,"dur": 6000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120761218000,"dur": 6000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120761263000,"dur": 12000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120761342000,"dur": 13000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120761403000,"dur": 15000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120761495000,"dur": 13000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120761582000,"dur": 17000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120761776000,"dur": 43000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120761921000,"dur": 10000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120761966000,"dur": 27000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120762072000,"dur": 6000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120762581000,"dur": 8000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120762700000,"dur": 14000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -1,"ts": 1694120763022000,"dur": 12000, "ph":"X", "name": "GC - Gen 1", "args": { "detail": "Reason: SOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -2, "ph":"M", "name": "thread_name", "args": {"name": "GC"} },
+{ "pid": "host", "tid": -2,"ts": 1694120753829000,"dur": 5000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: LOH allocation, Type: Blocking GC"}
+},
+{ "pid": "host", "tid": -2,"ts": 1694120757333000,"dur": 3000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: LOH allocation, Type: Background GC"}
+},
+{ "pid": "host", "tid": -2,"ts": 1694120760864000,"dur": 7000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: SOH allocation, Type: Background GC"}
+},
+{ "pid": "host", "tid": -2,"ts": 1694120761263000,"dur": 32000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: SOH allocation, Type: Background GC"}
+},
+{ "pid": "host", "tid": -2,"ts": 1694120761403000,"dur": 46000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: SOH allocation, Type: Background GC"}
+},
+{ "pid": "host", "tid": -2,"ts": 1694120761582000,"dur": 59000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: SOH allocation, Type: Background GC"}
+},
+{ "pid": "host", "tid": -2,"ts": 1694120761851000,"dur": 58000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: SOH allocation, Type: Background GC"}
+},
+{ "pid": "host", "tid": -2,"ts": 1694120762012000,"dur": 50000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: SOH allocation, Type: Background GC"}
+},
+{ "pid": "host", "tid": -2,"ts": 1694120762700000,"dur": 100000, "ph":"X", "name": "GC - Gen 2", "args": { "detail": "Reason: SOH allocation, Type: Background GC"}
+},
